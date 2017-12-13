@@ -1,0 +1,16 @@
+
+<resources>
+    <string name="app_name">AndroidWidgetTutorial</string>
+    <string-array name="oceanarray">
+        <item>Pacific ocean</item>
+        <item>North Atlantic  ocean</item>
+        <item>South ocean</item>
+        <item>Indian ocean</item>
+        <item>South Pacific ocean</item>
+        <item>Pacific ocean</item>
+        <item>North Atlantic  ocean</item>
+        <item>South ocean</item>
+        <item>Indian ocean</item>
+        <item>South Pacific ocean</item>
+    </string-array>
+</resources>
